@@ -92,7 +92,7 @@ sudo make
 sudo make install
 ```
 
-正常安装是这样子的   如果失败尝试如下->[操作](https://github.com/AGMXiaoTian/Ubantu-Python37?tab=readme-ov-file#%E6%9B%BF%E6%8D%A2%E6%BA%90%E6%93%8D%E4%BD%9C%E5%A6%82%E4%B8%8B)
+正常安装是这样子的   如果失败尝试如下->[下面的安装失败修复流程]
 
 ![image-20250529141052181](https://gitee.com/NeighborAngel/ubantu-python/raw/master/img/image-20250529141052181.png)
 

@@ -92,7 +92,7 @@ sudo make
 sudo make install
 ```
 
-正常安装是这样子的   如果失败尝试如下->[下面的安装失败修复流程]
+正常安装是这样子的   如果失败尝试如下->[下面的安装失败修复流程]()
 
 ![image-20250529141052181](https://gitee.com/NeighborAngel/ubantu-python/raw/master/img/image-20250529141052181.png)
 
@@ -103,7 +103,7 @@ sudo make install
 > ```
 
 
-## sudo make install 安装失败的话尝试如下：
+## sudo make install 安装失败修复流程：
 ```shell
 sudo make clean  # 清除上次编译结果
 sudo ./configure --prefix=/usr/local/python3.7 --enable-optimizations

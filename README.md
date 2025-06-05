@@ -20,7 +20,7 @@ sudo apt-get install libffi-dev uuid-dev lzma-dev liblzma-dev libncurses5-dev li
 
 # 这是一句命令(德语超大声)
 ```
-这里出错误的话移步第二步的 6. 的前，错误修复[更换镜像源修复](https://gitee.com/NeighborAngel/ubantu-python/blob/master/README.md#%E6%9B%BF%E6%8D%A2%E6%BA%90%E6%93%8D%E4%BD%9C%E5%A6%82%E4%B8%8B)
+这里出错误的话移步第二步的 6. 的前，错误修复[更换镜像源修复](https://github.com/AGMXiaoTian/Ubantu-Python37?tab=readme-ov-file#%E6%9B%BF%E6%8D%A2%E6%BA%90%E6%93%8D%E4%BD%9C%E5%A6%82%E4%B8%8B)
 #### 1. 1、python去官网下载：
 
 #### [Python官网下载](https://www.python.org/downloads/release/python-371/)

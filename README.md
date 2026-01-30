@@ -1,6 +1,6 @@
 # Ubuntu16安装Python3.7
 
-### 前言
+### 摘要
 
 > 本文将按照Python的各个版本进行介绍的是Ubuntu16下安装3.7版本Python的过程
 > 本文对于Python安装的定位是：独立安装，不修改或覆盖系统原有python的文件
